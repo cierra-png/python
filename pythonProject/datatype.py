@@ -1,0 +1,7 @@
+My_name=str("eMobilis")
+My_number=int(565)
+My_number2=float(45.677677)
+My_bool=bool(True)
+My_bool2=bool(False)
+My_comp=complex(1j)
+print(My_name)
